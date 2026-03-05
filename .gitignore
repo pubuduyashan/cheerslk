@@ -1,0 +1,40 @@
+node_modules/
+dist/
+.expo/
+.turbo/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Expo
+ios/
+android/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Build
+web-build/
+*.hprof
+
+# Testing
+coverage/
+
+# Supabase
+supabase/.temp/
